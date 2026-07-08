@@ -1,3 +1,22 @@
 {
-    "inventario": {}
+    "inventario": {
+        "001": {
+            "nombre": "Escoba",
+            "categoria": "Limpieza",
+            "precio": 70.0,
+            "stock": 5,
+            "stock_minimo": 2,
+            "proveedor": "Lalala",
+            "alerta_stock": "Stock Normal"
+        },
+        "002": {
+            "nombre": "Iphone XR",
+            "categoria": "Celulares",
+            "precio": 800.0,
+            "stock": 9,
+            "stock_minimo": 10,
+            "proveedor": "Apple",
+            "alerta_stock": "Stock Bajo"
+        }
+    }
 }
